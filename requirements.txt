@@ -1,3 +1,5 @@
 streamlit
 joblib
-statsmodels         
+statsmodels
+scikit-learn
+         
